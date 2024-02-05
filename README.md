@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandzzzzz
-- 👀 I’m interested in technical requirements 
+- 👀 I’m interested in technical recruitments
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me : most definitely my mail nandithap1507@gmail.com
